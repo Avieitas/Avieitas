@@ -14,3 +14,4 @@
 </p>
 <img src="https://readme-typing-svg.demolab.com/?...">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=;Building+cool+things;Welcome+to+my+profile" />
+![Avieitas's Stats](https://github-readme-stats.vercel.app/api?username=Avieitas&theme=buefy&show_icons=true&hide_border=true&count_private=true)

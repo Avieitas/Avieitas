@@ -1,4 +1,4 @@
-<h1 align="center">Anauã Vieitas</h1>
+  <h1 align="center">Anauã Vieitas</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+web+products+and+developer+tools" />
@@ -12,6 +12,8 @@
   <a href="#">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/anau%C3%A3-campolina-vieitas-3b6549440?utm_source=share_via&utm_content=profile&utm_medium=member_ios">LinkedIn</a>
 </p>
-<img src="https://readme-typing-svg.demolab.com/?...">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=;Building+cool+things;Welcome+to+my+profile" />
-![Avieitas's Stats](https://github-readme-stats.vercel.app/api?username=Avieitas&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avieitas&amp;theme=nightowl&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="Estatísticas de Avieitas" />
+</p>
